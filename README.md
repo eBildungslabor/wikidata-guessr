@@ -18,6 +18,8 @@ Die Software steht unter der Lizenz **GPLv3+**
 
 ## Impressum und Datenschutz
 
-Impressum für die Website www.geospiel.de & Verantwortung für den Datenschutz
+Impressum für die Website www.geospiel.de & Verantwortung für den Datenschutz:
+
 Nele Hirsch | Goethehain 4 | 06772 Gräfenhainichen | nele@ebildungslabor.de
+
 Bei der Nutzung der Seite geospiel.de werden keine Daten über die Nutzungsdauer hinaus gespeichert. 
